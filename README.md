@@ -1,2 +1,2 @@
-# MSSP6070
-For DS course upenn
+# My Repo
+Data Science Projects
